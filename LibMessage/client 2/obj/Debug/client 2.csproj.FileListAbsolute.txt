@@ -1,0 +1,16 @@
+E:\Desktop\SQL Chat\LibMessage\client 2\bin\Debug\client.exe.config
+E:\Desktop\SQL Chat\LibMessage\client 2\obj\Debug\client.exe
+E:\Desktop\SQL Chat\LibMessage\client 2\obj\Debug\client.pdb
+E:\Desktop\SQL Chat\LibMessage\client 2\bin\Debug\client.exe
+E:\Desktop\SQL Chat\LibMessage\client 2\bin\Debug\client.pdb
+E:\Desktop\SQL Chat\LibMessage\client 2\bin\Debug\LibMessage.dll
+E:\Desktop\SQL Chat\LibMessage\client 2\bin\Debug\LibMessage.pdb
+E:\Desktop\SQL Chat\LibMessage\client 2\obj\Debug\client.ChatScreen.resources
+E:\Desktop\SQL Chat\LibMessage\client 2\obj\Debug\client.LoginScreen.resources
+E:\Desktop\SQL Chat\LibMessage\client 2\obj\Debug\client.Properties.Resources.resources
+E:\Desktop\SQL Chat\LibMessage\client 2\obj\Debug\client.RegisterScreen.resources
+E:\Desktop\SQL Chat\LibMessage\client 2\obj\Debug\client 2.csproj.GenerateResource.Cache
+E:\Desktop\SQL Chat\LibMessage\client 2\obj\Debug\client 2.csprojResolveAssemblyReference.cache
+E:\Desktop\אור\קורס\SQL Chat\LibMessage\client 2\bin\Debug\client.exe.config
+E:\Desktop\אור\קורס\SQL Chat\LibMessage\client 2\obj\Debug\client.exe
+E:\Desktop\אור\קורס\SQL Chat\LibMessage\client 2\obj\Debug\client.pdb

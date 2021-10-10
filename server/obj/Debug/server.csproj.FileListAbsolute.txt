@@ -1,0 +1,88 @@
+C:\Users\jbt\Desktop\26-10-2014\HW socket in win forms\server\bin\Debug\server.exe.config
+C:\Users\jbt\Desktop\26-10-2014\HW socket in win forms\server\bin\Debug\server.exe
+C:\Users\jbt\Desktop\26-10-2014\HW socket in win forms\server\bin\Debug\server.pdb
+C:\Users\jbt\Desktop\26-10-2014\HW socket in win forms\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\26-10-2014\HW socket in win forms\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\jbt\Desktop\26-10-2014\HW socket in win forms\server\obj\Debug\server.csproj.GenerateResource.Cache
+C:\Users\jbt\Desktop\26-10-2014\HW socket in win forms\server\obj\Debug\server.exe
+C:\Users\jbt\Desktop\26-10-2014\HW socket in win forms\server\obj\Debug\server.pdb
+C:\Users\jbt\Desktop\26-10-2014\HW socket in win forms\server\bin\Debug\LibMessage.dll
+C:\Users\jbt\Desktop\26-10-2014\HW socket in win forms\server\bin\Debug\LibMessage.pdb
+C:\Users\jbt\Desktop\26-10-2014\HW socket in win forms\server\obj\Debug\server.Form1.resources
+C:\Users\jbt\Desktop\26-10-2014\HW socket in win forms\server\obj\Debug\server.Form2.resources
+O:\91229-1\Advanced C#\26-10-2014\HW socket in win forms\server\bin\Debug\server.exe.config
+O:\91229-1\Advanced C#\26-10-2014\HW socket in win forms\server\obj\Debug\server.exe
+O:\91229-1\Advanced C#\26-10-2014\HW socket in win forms\server\obj\Debug\server.pdb
+E:\Desktop\אור\New folder\HW socket in win forms\server\bin\Debug\server.exe.config
+E:\Desktop\אור\New folder\HW socket in win forms\server\obj\Debug\server.exe
+E:\Desktop\אור\New folder\HW socket in win forms\server\obj\Debug\server.pdb
+E:\Desktop\אור\New folder\HW socket in win forms\server\bin\Debug\server.exe
+E:\Desktop\אור\New folder\HW socket in win forms\server\bin\Debug\server.pdb
+E:\Desktop\אור\New folder\HW socket in win forms\server\bin\Debug\LibMessage.dll
+E:\Desktop\אור\New folder\HW socket in win forms\server\bin\Debug\LibMessage.pdb
+E:\Desktop\אור\New folder\HW socket in win forms\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+E:\Desktop\אור\New folder\HW socket in win forms\server\obj\Debug\server.Form1.resources
+E:\Desktop\אור\New folder\HW socket in win forms\server\obj\Debug\server.Form2.resources
+E:\Desktop\אור\New folder\HW socket in win forms\server\obj\Debug\server.Properties.Resources.resources
+E:\Desktop\אור\New folder\HW socket in win forms\server\obj\Debug\server.csproj.GenerateResource.Cache
+E:\Desktop\HW socket in win forms\server\bin\Debug\server.exe.config
+E:\Desktop\HW socket in win forms\server\obj\Debug\server.exe
+E:\Desktop\HW socket in win forms\server\obj\Debug\server.pdb
+E:\Desktop\HW socket in win forms\server\bin\Debug\server.exe
+E:\Desktop\HW socket in win forms\server\bin\Debug\server.pdb
+E:\Desktop\HW socket in win forms\server\bin\Debug\LibMessage.dll
+E:\Desktop\HW socket in win forms\server\bin\Debug\LibMessage.pdb
+E:\Desktop\HW socket in win forms\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+E:\Desktop\HW socket in win forms\server\obj\Debug\server.Form1.resources
+E:\Desktop\HW socket in win forms\server\obj\Debug\server.Form2.resources
+E:\Desktop\HW socket in win forms\server\obj\Debug\server.Properties.Resources.resources
+E:\Desktop\HW socket in win forms\server\obj\Debug\server.csproj.GenerateResource.Cache
+C:\Users\jbt\Desktop\HW socket in win forms\server\bin\Debug\server.exe.config
+C:\Users\jbt\Desktop\HW socket in win forms\server\obj\Debug\server.exe
+C:\Users\jbt\Desktop\HW socket in win forms\server\obj\Debug\server.pdb
+C:\Users\jbt\Desktop\HW socket in win forms\server\bin\Debug\server.exe
+C:\Users\jbt\Desktop\HW socket in win forms\server\bin\Debug\server.pdb
+C:\Users\jbt\Desktop\HW socket in win forms\server\bin\Debug\LibMessage.dll
+C:\Users\jbt\Desktop\HW socket in win forms\server\bin\Debug\LibMessage.pdb
+C:\Users\jbt\Desktop\HW socket in win forms\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\HW socket in win forms\server\obj\Debug\server.Form1.resources
+C:\Users\jbt\Desktop\HW socket in win forms\server\obj\Debug\server.Form2.resources
+C:\Users\jbt\Desktop\HW socket in win forms\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\jbt\Desktop\HW socket in win forms\server\obj\Debug\server.csproj.GenerateResource.Cache
+E:\Desktop\HW socket in win forms23\server\bin\Debug\server.exe.config
+E:\Desktop\HW socket in win forms23\server\obj\Debug\server.exe
+E:\Desktop\HW socket in win forms23\server\obj\Debug\server.pdb
+E:\Desktop\HW socket in win forms23\server\bin\Debug\server.exe
+E:\Desktop\HW socket in win forms23\server\bin\Debug\server.pdb
+E:\Desktop\HW socket in win forms23\server\bin\Debug\LibMessage.dll
+E:\Desktop\HW socket in win forms23\server\bin\Debug\LibMessage.pdb
+E:\Desktop\HW socket in win forms23\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+E:\Desktop\HW socket in win forms23\server\obj\Debug\server.Properties.Resources.resources
+E:\Desktop\HW socket in win forms23\server\obj\Debug\server.csproj.GenerateResource.Cache
+E:\Desktop\HW socket in win forms23\server\obj\Debug\server.ServerWindow.resources
+C:\Users\jbt\Desktop\ChatProject\server\bin\Debug\server.exe.config
+C:\Users\jbt\Desktop\ChatProject\server\obj\Debug\server.exe
+C:\Users\jbt\Desktop\ChatProject\server\obj\Debug\server.pdb
+C:\Users\jbt\Desktop\ChatProject\server\bin\Debug\server.exe
+C:\Users\jbt\Desktop\ChatProject\server\bin\Debug\server.pdb
+C:\Users\jbt\Desktop\ChatProject\server\bin\Debug\LibMessage.dll
+C:\Users\jbt\Desktop\ChatProject\server\bin\Debug\LibMessage.pdb
+C:\Users\jbt\Desktop\ChatProject\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\ChatProject\server\obj\Debug\server.ServerWindow.resources
+C:\Users\jbt\Desktop\ChatProject\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\jbt\Desktop\ChatProject\server\obj\Debug\server.csproj.GenerateResource.Cache
+E:\Desktop\SQL Chat\server\bin\Debug\server.exe.config
+E:\Desktop\SQL Chat\server\obj\Debug\server.exe
+E:\Desktop\SQL Chat\server\obj\Debug\server.pdb
+E:\Desktop\SQL Chat\server\bin\Debug\server.exe
+E:\Desktop\SQL Chat\server\bin\Debug\server.pdb
+E:\Desktop\SQL Chat\server\bin\Debug\LibMessage.dll
+E:\Desktop\SQL Chat\server\bin\Debug\LibMessage.pdb
+E:\Desktop\SQL Chat\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+E:\Desktop\SQL Chat\server\obj\Debug\server.ServerWindow.resources
+E:\Desktop\SQL Chat\server\obj\Debug\server.Properties.Resources.resources
+E:\Desktop\SQL Chat\server\obj\Debug\server.csproj.GenerateResource.Cache
+E:\Desktop\SQL Chat\server\obj\Debug\server.SearchWindow.resources
+E:\Desktop\אור\קורס\SQL Chat\server\bin\Debug\server.exe.config
+E:\Desktop\אור\קורס\SQL Chat\server\obj\Debug\server.exe
+E:\Desktop\אור\קורס\SQL Chat\server\obj\Debug\server.pdb

@@ -1,0 +1,35 @@
+C:\Users\jbt\Desktop\26-10-2014\HW socket in win forms\LibMessage\bin\Debug\LibMessage.dll
+C:\Users\jbt\Desktop\26-10-2014\HW socket in win forms\LibMessage\bin\Debug\LibMessage.pdb
+C:\Users\jbt\Desktop\26-10-2014\HW socket in win forms\LibMessage\obj\Debug\LibMessage.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\26-10-2014\HW socket in win forms\LibMessage\obj\Debug\LibMessage.dll
+C:\Users\jbt\Desktop\26-10-2014\HW socket in win forms\LibMessage\obj\Debug\LibMessage.pdb
+E:\Desktop\אור\New folder\HW socket in win forms\LibMessage\bin\Debug\LibMessage.dll
+E:\Desktop\אור\New folder\HW socket in win forms\LibMessage\bin\Debug\LibMessage.pdb
+E:\Desktop\אור\New folder\HW socket in win forms\LibMessage\obj\Debug\LibMessage.csprojResolveAssemblyReference.cache
+E:\Desktop\אור\New folder\HW socket in win forms\LibMessage\obj\Debug\LibMessage.dll
+E:\Desktop\אור\New folder\HW socket in win forms\LibMessage\obj\Debug\LibMessage.pdb
+E:\Desktop\HW socket in win forms\LibMessage\bin\Debug\LibMessage.dll
+E:\Desktop\HW socket in win forms\LibMessage\bin\Debug\LibMessage.pdb
+E:\Desktop\HW socket in win forms\LibMessage\obj\Debug\LibMessage.csprojResolveAssemblyReference.cache
+E:\Desktop\HW socket in win forms\LibMessage\obj\Debug\LibMessage.dll
+E:\Desktop\HW socket in win forms\LibMessage\obj\Debug\LibMessage.pdb
+C:\Users\jbt\Desktop\HW socket in win forms\LibMessage\bin\Debug\LibMessage.dll
+C:\Users\jbt\Desktop\HW socket in win forms\LibMessage\bin\Debug\LibMessage.pdb
+C:\Users\jbt\Desktop\HW socket in win forms\LibMessage\obj\Debug\LibMessage.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\HW socket in win forms\LibMessage\obj\Debug\LibMessage.dll
+C:\Users\jbt\Desktop\HW socket in win forms\LibMessage\obj\Debug\LibMessage.pdb
+E:\Desktop\HW socket in win forms23\LibMessage\bin\Debug\LibMessage.dll
+E:\Desktop\HW socket in win forms23\LibMessage\bin\Debug\LibMessage.pdb
+E:\Desktop\HW socket in win forms23\LibMessage\obj\Debug\LibMessage.csprojResolveAssemblyReference.cache
+E:\Desktop\HW socket in win forms23\LibMessage\obj\Debug\LibMessage.dll
+E:\Desktop\HW socket in win forms23\LibMessage\obj\Debug\LibMessage.pdb
+C:\Users\jbt\Desktop\ChatProject\LibMessage\bin\Debug\LibMessage.dll
+C:\Users\jbt\Desktop\ChatProject\LibMessage\bin\Debug\LibMessage.pdb
+C:\Users\jbt\Desktop\ChatProject\LibMessage\obj\Debug\LibMessage.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\ChatProject\LibMessage\obj\Debug\LibMessage.dll
+C:\Users\jbt\Desktop\ChatProject\LibMessage\obj\Debug\LibMessage.pdb
+E:\Desktop\SQL Chat\LibMessage\bin\Debug\LibMessage.dll
+E:\Desktop\SQL Chat\LibMessage\bin\Debug\LibMessage.pdb
+E:\Desktop\SQL Chat\LibMessage\obj\Debug\LibMessage.csprojResolveAssemblyReference.cache
+E:\Desktop\SQL Chat\LibMessage\obj\Debug\LibMessage.dll
+E:\Desktop\SQL Chat\LibMessage\obj\Debug\LibMessage.pdb

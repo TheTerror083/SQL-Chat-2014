@@ -1,0 +1,91 @@
+C:\Users\jbt\Desktop\26-10-2014\HW socket in win forms\LibMessage\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\26-10-2014\HW socket in win forms\LibMessage\client\obj\Debug\client.Form1.resources
+C:\Users\jbt\Desktop\26-10-2014\HW socket in win forms\LibMessage\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\jbt\Desktop\26-10-2014\HW socket in win forms\LibMessage\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\jbt\Desktop\26-10-2014\HW socket in win forms\LibMessage\client\bin\Debug\client.exe.config
+C:\Users\jbt\Desktop\26-10-2014\HW socket in win forms\LibMessage\client\bin\Debug\client.exe
+C:\Users\jbt\Desktop\26-10-2014\HW socket in win forms\LibMessage\client\bin\Debug\client.pdb
+C:\Users\jbt\Desktop\26-10-2014\HW socket in win forms\LibMessage\client\bin\Debug\LibMessage.dll
+C:\Users\jbt\Desktop\26-10-2014\HW socket in win forms\LibMessage\client\bin\Debug\LibMessage.pdb
+C:\Users\jbt\Desktop\26-10-2014\HW socket in win forms\LibMessage\client\obj\Debug\client.exe
+C:\Users\jbt\Desktop\26-10-2014\HW socket in win forms\LibMessage\client\obj\Debug\client.pdb
+O:\91229-1\Advanced C#\26-10-2014\HW socket in win forms\LibMessage\client\bin\Debug\client.exe.config
+O:\91229-1\Advanced C#\26-10-2014\HW socket in win forms\LibMessage\client\obj\Debug\client.exe
+O:\91229-1\Advanced C#\26-10-2014\HW socket in win forms\LibMessage\client\obj\Debug\client.pdb
+E:\Desktop\אור\New folder\HW socket in win forms\LibMessage\client\bin\Debug\client.exe.config
+E:\Desktop\אור\New folder\HW socket in win forms\LibMessage\client\obj\Debug\client.exe
+E:\Desktop\אור\New folder\HW socket in win forms\LibMessage\client\obj\Debug\client.pdb
+E:\Desktop\אור\New folder\HW socket in win forms\LibMessage\client\bin\Debug\client.exe
+E:\Desktop\אור\New folder\HW socket in win forms\LibMessage\client\bin\Debug\client.pdb
+E:\Desktop\אור\New folder\HW socket in win forms\LibMessage\client\bin\Debug\LibMessage.dll
+E:\Desktop\אור\New folder\HW socket in win forms\LibMessage\client\bin\Debug\LibMessage.pdb
+E:\Desktop\אור\New folder\HW socket in win forms\LibMessage\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+E:\Desktop\אור\New folder\HW socket in win forms\LibMessage\client\obj\Debug\client.Form1.resources
+E:\Desktop\אור\New folder\HW socket in win forms\LibMessage\client\obj\Debug\client.Properties.Resources.resources
+E:\Desktop\אור\New folder\HW socket in win forms\LibMessage\client\obj\Debug\client.csproj.GenerateResource.Cache
+E:\Desktop\אור\New folder\HW socket in win forms\LibMessage\client\obj\Debug\client.Form2.resources
+E:\Desktop\HW socket in win forms\LibMessage\client\bin\Debug\client.exe.config
+E:\Desktop\HW socket in win forms\LibMessage\client\obj\Debug\client.exe
+E:\Desktop\HW socket in win forms\LibMessage\client\obj\Debug\client.pdb
+E:\Desktop\HW socket in win forms\LibMessage\client\bin\Debug\client.exe
+E:\Desktop\HW socket in win forms\LibMessage\client\bin\Debug\client.pdb
+E:\Desktop\HW socket in win forms\LibMessage\client\bin\Debug\LibMessage.dll
+E:\Desktop\HW socket in win forms\LibMessage\client\bin\Debug\LibMessage.pdb
+E:\Desktop\HW socket in win forms\LibMessage\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+E:\Desktop\HW socket in win forms\LibMessage\client\obj\Debug\client.Form1.resources
+E:\Desktop\HW socket in win forms\LibMessage\client\obj\Debug\client.Form2.resources
+E:\Desktop\HW socket in win forms\LibMessage\client\obj\Debug\client.Properties.Resources.resources
+E:\Desktop\HW socket in win forms\LibMessage\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\jbt\Desktop\HW socket in win forms\LibMessage\client\bin\Debug\client.exe.config
+C:\Users\jbt\Desktop\HW socket in win forms\LibMessage\client\obj\Debug\client.exe
+C:\Users\jbt\Desktop\HW socket in win forms\LibMessage\client\obj\Debug\client.pdb
+C:\Users\jbt\Desktop\HW socket in win forms\LibMessage\client\bin\Debug\client.exe
+C:\Users\jbt\Desktop\HW socket in win forms\LibMessage\client\bin\Debug\client.pdb
+C:\Users\jbt\Desktop\HW socket in win forms\LibMessage\client\bin\Debug\LibMessage.dll
+C:\Users\jbt\Desktop\HW socket in win forms\LibMessage\client\bin\Debug\LibMessage.pdb
+C:\Users\jbt\Desktop\HW socket in win forms\LibMessage\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\HW socket in win forms\LibMessage\client\obj\Debug\client.Form1.resources
+C:\Users\jbt\Desktop\HW socket in win forms\LibMessage\client\obj\Debug\client.Form2.resources
+C:\Users\jbt\Desktop\HW socket in win forms\LibMessage\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\jbt\Desktop\HW socket in win forms\LibMessage\client\obj\Debug\client.csproj.GenerateResource.Cache
+E:\Desktop\HW socket in win forms23\LibMessage\client\bin\Debug\client.exe.config
+E:\Desktop\HW socket in win forms23\LibMessage\client\obj\Debug\client.exe
+E:\Desktop\HW socket in win forms23\LibMessage\client\obj\Debug\client.pdb
+E:\Desktop\HW socket in win forms23\LibMessage\client\bin\Debug\client.exe
+E:\Desktop\HW socket in win forms23\LibMessage\client\bin\Debug\client.pdb
+E:\Desktop\HW socket in win forms23\LibMessage\client\bin\Debug\LibMessage.dll
+E:\Desktop\HW socket in win forms23\LibMessage\client\bin\Debug\LibMessage.pdb
+E:\Desktop\HW socket in win forms23\LibMessage\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+E:\Desktop\HW socket in win forms23\LibMessage\client\obj\Debug\client.Properties.Resources.resources
+E:\Desktop\HW socket in win forms23\LibMessage\client\obj\Debug\client.csproj.GenerateResource.Cache
+E:\Desktop\HW socket in win forms23\LibMessage\client\obj\Debug\client.ChatScreen.resources
+E:\Desktop\HW socket in win forms23\LibMessage\client\obj\Debug\client.LoginScreen.resources
+C:\Users\jbt\Desktop\ChatProject\LibMessage\client\bin\Debug\client.exe.config
+C:\Users\jbt\Desktop\ChatProject\LibMessage\client\obj\Debug\client.exe
+C:\Users\jbt\Desktop\ChatProject\LibMessage\client\obj\Debug\client.pdb
+C:\Users\jbt\Desktop\ChatProject\LibMessage\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\ChatProject\LibMessage\client\obj\Debug\client.ChatScreen.resources
+C:\Users\jbt\Desktop\ChatProject\LibMessage\client\obj\Debug\client.LoginScreen.resources
+C:\Users\jbt\Desktop\ChatProject\LibMessage\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\jbt\Desktop\ChatProject\LibMessage\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\jbt\Desktop\ChatProject\LibMessage\client\bin\Debug\client.exe
+C:\Users\jbt\Desktop\ChatProject\LibMessage\client\bin\Debug\client.pdb
+C:\Users\jbt\Desktop\ChatProject\LibMessage\client\bin\Debug\LibMessage.dll
+C:\Users\jbt\Desktop\ChatProject\LibMessage\client\bin\Debug\LibMessage.pdb
+C:\Users\jbt\Desktop\ChatProject\LibMessage\client\obj\Debug\client.RegisterScreen.resources
+E:\Desktop\SQL Chat\LibMessage\client\bin\Debug\client.exe.config
+E:\Desktop\SQL Chat\LibMessage\client\obj\Debug\client.exe
+E:\Desktop\SQL Chat\LibMessage\client\obj\Debug\client.pdb
+E:\Desktop\SQL Chat\LibMessage\client\bin\Debug\client.exe
+E:\Desktop\SQL Chat\LibMessage\client\bin\Debug\client.pdb
+E:\Desktop\SQL Chat\LibMessage\client\bin\Debug\LibMessage.dll
+E:\Desktop\SQL Chat\LibMessage\client\bin\Debug\LibMessage.pdb
+E:\Desktop\SQL Chat\LibMessage\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+E:\Desktop\SQL Chat\LibMessage\client\obj\Debug\client.ChatScreen.resources
+E:\Desktop\SQL Chat\LibMessage\client\obj\Debug\client.LoginScreen.resources
+E:\Desktop\SQL Chat\LibMessage\client\obj\Debug\client.Properties.Resources.resources
+E:\Desktop\SQL Chat\LibMessage\client\obj\Debug\client.RegisterScreen.resources
+E:\Desktop\SQL Chat\LibMessage\client\obj\Debug\client.csproj.GenerateResource.Cache
+E:\Desktop\אור\קורס\SQL Chat\LibMessage\client\bin\Debug\client.exe.config
+E:\Desktop\אור\קורס\SQL Chat\LibMessage\client\obj\Debug\client.exe
+E:\Desktop\אור\קורס\SQL Chat\LibMessage\client\obj\Debug\client.pdb
